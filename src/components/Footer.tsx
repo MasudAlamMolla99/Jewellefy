@@ -46,7 +46,8 @@ const Footer = () => {
               <Facebook className="w-5 h-5" />
             </a>
             <a
-              href="#"
+              href="https://www.instagram.com/jewellefy.co?utm_source=qr&igsh=a3c5dTBrd2Y3aTlu"
+              target="_blank"
               className="w-10 h-10 rounded-full border border-card/20 flex items-center justify-center hover:border-primary hover:text-primary transition-colors"
             >
               <Instagram className="w-5 h-5" />
